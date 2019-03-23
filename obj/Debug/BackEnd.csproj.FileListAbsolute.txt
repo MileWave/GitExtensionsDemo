@@ -1,0 +1,5 @@
+C:\Users\splen\Documents\SpaceWork\workspace.msdn\C#\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\splen\Documents\SpaceWork\workspace.msdn\C#\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\splen\Documents\SpaceWork\workspace.msdn\C#\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\splen\Documents\SpaceWork\workspace.msdn\C#\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\splen\Documents\SpaceWork\workspace.msdn\C#\BackEnd\obj\Debug\BackEnd.pdb
